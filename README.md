@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido para o desafio da DIO, visando aplicar conceitos d
 
 ### Autor
 
-rwwwb
+Rodrigo Rangel
